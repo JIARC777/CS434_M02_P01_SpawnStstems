@@ -17,7 +17,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -127,6 +126,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
     - Class: 81
@@ -144,6 +145,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9864}
     - Class: 114
+      Script: {instanceID: 9908}
+    - Class: 114
       Script: {instanceID: 10048}
     - Class: 114
       Script: {instanceID: 10160}
@@ -154,14 +157,26 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11032}
     - Class: 114
+      Script: {instanceID: 11166}
+    - Class: 114
       Script: {instanceID: 11320}
     - Class: 114
       Script: {instanceID: 11354}
     - Class: 114
       Script: {instanceID: 11382}
+    - Class: 114
+      Script: {instanceID: 11428}
     - Class: 115
       Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 123
+      Script: {instanceID: 0}
     - Class: 128
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -172,6 +187,12 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
     - Class: 258
+      Script: {instanceID: 0}
+    - Class: 320
+      Script: {instanceID: 0}
+    - Class: 73398921
+      Script: {instanceID: 0}
+    - Class: 2083052967
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -662,7 +683,7 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 20
   scenePathNames:
-  - Assets/LoadVsCopy.unity
   - Assets/PrototypeFactory.unity
+  - Assets/LoadVsCopy.unity
   playerPath: C:/Users/jivan/OneDrive/Documents/GitHub/CS434_M02_P01_SpawnStstems/New
     folder

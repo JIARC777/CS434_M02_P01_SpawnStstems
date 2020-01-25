@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/LoadVsCopy.unity
-    guid: 79511dcd046d1154d8fde9e223f6d18c
-  - enabled: 1
     path: Assets/PrototypeFactory.unity
     guid: 50dd471a225b39243847aa0561cfe203
+  - enabled: 1
+    path: Assets/LoadVsCopy.unity
+    guid: 79511dcd046d1154d8fde9e223f6d18c
   m_configObjects: {}
